@@ -1,0 +1,23 @@
+INFO:  latexindent.exe version 3.14, 2022-01-08, a script to indent .tex files
+       latexindent.exe lives here: C:/texlive/2021/bin/win32/
+       Mon May  1 07:03:49 2023
+       Filename: c:\Users\sarad\OneDrive - USU\Documents\College\Classes\Year 3 - spring\CS 2420\Final Exam Review\CS 2420 - Final Review.tex
+INFO:  Processing switches:
+INFO:  Directory for backup files and indent.log: c:\Users\sarad\OneDrive - USU\Documents\College\Classes\Year 3 - spring\CS 2420\Final Exam Review
+INFO:  YAML settings read: defaultSettings.yaml
+       Reading defaultSettings.yaml from C:/texlive/2021/bin/win32/defaultSettings.yaml
+       Reading defaultSettings.yaml (2nd attempt) from C:/texlive/2021/bin/win32/../../texmf-dist/scripts/latexindent/defaultSettings.yaml
+       and then, if necessary, C:/texlive/2021/bin/win32/LatexIndent/defaultSettings.yaml
+INFO:  YAML settings read: indentconfig.yaml or .indentconfig.yaml
+       Home directory is C:\Users\sarad (didn't find either indentconfig.yaml or .indentconfig.yaml)
+       To specify user settings you would put indentconfig.yaml here: C:\Users\sarad/indentconfig.yaml
+       Alternatively, you can use the hidden file .indentconfig.yaml as: C:\Users\sarad/.indentconfig.yaml
+INFO:  Phase 1: searching for objects
+INFO:  Phase 2: finding surrounding indentation
+INFO:  Phase 3: indenting objects
+INFO:  Phase 4: final indentation check
+INFO:  Output routine:
+       Not outputting to file; see -w and -o switches for more options.
+       --------------
+INFO:  Please direct all communication/issues to:
+        https://github.com/cmhughes/latexindent.pl

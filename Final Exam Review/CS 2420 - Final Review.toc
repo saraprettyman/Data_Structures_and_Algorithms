@@ -1,0 +1,68 @@
+\contentsline {section}{\numberline {1}Unit 8: Introduction to Graphs}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Introduction to Graphs}{3}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Introduction to Graphs}{3}{subsubsection.1.1.1}%
+\contentsline {paragraph}{Terminology}{3}{section*.2}%
+\contentsline {paragraph}{Intuition}{3}{section*.3}%
+\contentsline {subsubsection}{\numberline {1.1.2}Graph Representations}{4}{subsubsection.1.1.2}%
+\contentsline {paragraph}{Adjacency Matrix Representation}{4}{section*.4}%
+\contentsline {paragraph}{Adjacency List Representation}{4}{section*.5}%
+\contentsline {subsubsection}{\numberline {1.1.3}Directed vs Undirected Graphs}{5}{subsubsection.1.1.3}%
+\contentsline {paragraph}{Is Connected - Algorithm}{5}{section*.6}%
+\contentsline {paragraph}{Find Connected Components - Algorithm}{5}{section*.7}%
+\contentsline {paragraph}{Strongly and Weakly Connected Components}{5}{section*.8}%
+\contentsline {paragraph}{Subgraph}{6}{section*.9}%
+\contentsline {subsubsection}{\numberline {1.1.4}More Terminology}{6}{subsubsection.1.1.4}%
+\contentsline {subsubsection}{\numberline {1.1.5}Homework 8.1}{7}{subsubsection.1.1.5}%
+\contentsline {subsubsection}{\numberline {1.1.6}Graph Node, Adjacency List Example }{9}{subsubsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.2}Graph Traversals}{9}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Introduction}{9}{subsubsection.1.2.1}%
+\contentsline {paragraph}{Two standard techniques}{9}{section*.10}%
+\contentsline {subsubsection}{\numberline {1.2.2}Depth First Search}{10}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Breadth First Search}{10}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Topological Order}{10}{subsubsection.1.2.4}%
+\contentsline {paragraph}{Outline}{10}{section*.11}%
+\contentsline {paragraph}{Algorithm}{10}{section*.12}%
+\contentsline {subsection}{\numberline {1.3}Shortest Path Algorithm}{11}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Introduction to Shortest Paths}{11}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Unweighted Shortest Paths}{12}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Weighted Shortest Paths - Dijkstra's Algorithm}{12}{subsubsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.4}Weighted Shortest Paths - Negative Edge Weights}{13}{subsubsection.1.3.4}%
+\contentsline {subsubsection}{\numberline {1.3.5}Weighted Shortest Paths - Acyclic Graphs}{13}{subsubsection.1.3.5}%
+\contentsline {subsubsection}{\numberline {1.3.6}Homework 8.3 - Graphs (Dijkstra)}{13}{subsubsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.4}Network Flow}{15}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Introduction to Network Flow \& the Ford-Fulkerson algorithm}{15}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Residual Graphs}{15}{subsubsection.1.4.2}%
+\contentsline {paragraph}{Definition:}{15}{section*.13}%
+\contentsline {paragraph}{Augmenting Path}{16}{section*.14}%
+\contentsline {paragraph}{Ford-Fulkerson Algorithm}{16}{section*.15}%
+\contentsline {subparagraph}{Steps:}{16}{section*.16}%
+\contentsline {subsubsection}{\numberline {1.4.3}Example applications of Network Flow}{16}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Edmonds-Karp algorithm}{17}{subsubsection.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.5}Computing the Minimum Cut}{17}{subsubsection.1.4.5}%
+\contentsline {subsubsection}{\numberline {1.4.6}Computing the Maximum Flow for the Minimum Cost}{17}{subsubsection.1.4.6}%
+\contentsline {subsubsection}{\numberline {1.4.7}Homework 8.3}{17}{subsubsection.1.4.7}%
+\contentsline {subsection}{\numberline {1.5}Minimum Spanning Trees}{17}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Kruskal's Algorithm}{17}{subsubsection.1.5.1}%
+\contentsline {paragraph}{Steps:}{17}{section*.17}%
+\contentsline {subsubsection}{\numberline {1.5.2}Prim's Algorithm}{17}{subsubsection.1.5.2}%
+\contentsline {paragraph}{Steps:}{17}{section*.18}%
+\contentsline {subsection}{\numberline {1.6}Paths \& Circuits}{18}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}Introduction to Euler Paths \& Circuits}{18}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}Euler Circuit Algorithm}{18}{subsubsection.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.3}Introduction to Hamilton Paths \& Circuits}{18}{subsubsection.1.6.3}%
+\contentsline {subsubsection}{\numberline {1.6.4}Examples:}{18}{subsubsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.7}Strongly Connected Components}{19}{subsection.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}Finding Strongly Connected Components}{19}{subsubsection.1.7.1}%
+\contentsline {paragraph}{Step:}{19}{section*.19}%
+\contentsline {subsection}{\numberline {1.8}Edge Types}{19}{subsection.1.8}%
+\contentsline {paragraph}{Questions}{20}{section*.20}%
+\contentsline {subsection}{\numberline {1.9}Biconnected Graphs}{20}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}Hard vs. Easy Problems}{20}{subsection.1.10}%
+\contentsline {paragraph}{Vertex Cover}{20}{section*.21}%
+\contentsline {subparagraph}{Steps:}{20}{section*.22}%
+\contentsline {section}{\numberline {2}Unit 9: Introduction to Algorithm Design}{21}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Introductinon to Dynamic Programming}{21}{subsection.2.1}%
+\contentsline {paragraph}{Greed Algorithms}{21}{section*.23}%
+\contentsline {subparagraph}{Memorizing}{21}{section*.24}%
+\contentsline {subparagraph}{Dynamic Programming}{21}{section*.25}%
+\contentsline {section}{\numberline {3}Additional Graphics}{21}{section.3}%
