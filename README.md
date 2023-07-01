@@ -1,4 +1,5 @@
 # Data_Structures_and_Algorithms
+Throughout this course, my programming language of choice was Java and my IDE of choice was IntelliJ.
 The topics covered during this 3 credit course were:
 * Time Complexity 
   *  Big O Notation
