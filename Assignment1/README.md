@@ -1,10 +1,11 @@
 ## Assignment 1
-**Description/Purpose:** 
+The purpose of this project is: given two words, create a ladder between them, where each step of the ladder is each word being only one letter off from the next. This project is composed of 4 Java files.
 
-Two classes were created for this project in the Queue folder: Node and Queue. The Node class represents a single node in a queue, while the Queue class implements the functionality of a queue data structure.
+_Queue.java_ implements a generic Queue and a generic Node, both via a linked list. The queue has two specific functions: enqueuing elements at the head and dequeuing at the tail, using the FIFO principles. 
 
-The rules are defined in is `LadderGame.java`. This file creates the structure of how the game is played from start to finish using the given `dictionary.txt` file. The LadderGame class represents a game where players try to find a word ladder between two given words using the words from the dictionary file. 
+_WordInfo.java_ represents information about a word, including the word itself, the number of moves associated with it, and it's history. It provides basic methods such as getWord, getMoves, and getHistory. 
 
-One important component of the game is the WordInfo class. This class is responsible for tracking the previous moves and history of the words during the game. It helps in keeping track of the progress and allows for the identification of the word ladder solution.
+_LadderGame.java_ creates the structure of the game, where players try to form a ladder of words starting from a given word and ending at another word. 
 
-In the `WordLadders.java` file, the game is ultimately played out with a total of 8 different ladders. Based on the given dictionary, only one ladder is not found, showcasing the effectiveness of the implemented algorithms and data structures.
+_WordLadders.java_ is where the game is ultimately played out with a total of 8 different ladders being attempted. This is the configuration was based. Based on the given `dictionary.txt`, only one ladder is not able to be found, showcasing the effectiveness of the implemented algorithms and data structures.
+
